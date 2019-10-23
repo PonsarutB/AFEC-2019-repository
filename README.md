@@ -1,2 +1,2 @@
-# AFEC-2019-respositoty
+# AFEC-2019-repository
 Repo for the module Reproducible Research
